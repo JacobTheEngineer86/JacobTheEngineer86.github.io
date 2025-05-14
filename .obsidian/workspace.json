@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Beliefs/index.md",
+                "file": "source/content/Beliefs/Religion/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Beliefs/index.md",
+                "file": "source/content/Beliefs/Religion/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Beliefs/index.md",
+                "file": "source/content/Beliefs/Religion/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Beliefs/index.md",
+                "file": "source/content/Beliefs/Religion/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,16 +171,17 @@
   },
   "active": "10436ac24229a9b5",
   "lastOpenFiles": [
+    "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
+    "source/content/Beliefs/index.md",
+    "source/content/Beliefs/Religion/index.md",
     "source/content/index.md",
     "Beliefs.md",
-    "source/content/Beliefs/index.md",
     "source/content/Blog/Blog.md",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/content/category-folder/index.md",
     "source/content/Career Related/Career Related.md",
     "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
-    "source/content/Beliefs/Religion/Religion.md",
     "source/content/Synthesis of Ideas",
     "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
     "source/content/Learning Chronicles/Tongue Twisters.md",
@@ -192,7 +193,7 @@
     "source/content/Interests",
     "source/content/Career Related",
     "source/content/Blog",
-    "source/content/Beliefs/Philosophy/Philosophy.md",
+    "source/content/Beliefs/Philosophy/index.md",
     "source/content/Beliefs/Religion",
     "source/content/Beliefs/Philosophy",
     "source/content/Beliefs",
