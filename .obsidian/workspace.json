@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Beliefs/Religion/index.md",
+                "file": "source/content/Beliefs/Philosophy/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Beliefs/Religion/index.md",
+                "file": "source/content/Beliefs/Philosophy/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Beliefs/Religion/index.md",
+                "file": "source/content/Beliefs/Philosophy/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Beliefs/Religion/index.md",
+                "file": "source/content/Beliefs/Philosophy/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,9 +171,9 @@
   },
   "active": "10436ac24229a9b5",
   "lastOpenFiles": [
+    "source/content/Beliefs/Religion/index.md",
     "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
     "source/content/Beliefs/index.md",
-    "source/content/Beliefs/Religion/index.md",
     "source/content/index.md",
     "Beliefs.md",
     "source/content/Blog/Blog.md",
