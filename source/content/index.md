@@ -1,5 +1,7 @@
 ---
-title: Jacob's Website
+title: Home
+---
+### [[Learning Chronicles]] | [[Synthesis of Ideas]] | [[Beliefs]] | [[Interests]] | [[Blog]] | [[Career Related]]
+
 ---
 
-Hello World!

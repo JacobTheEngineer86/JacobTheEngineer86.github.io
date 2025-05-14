@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/Beliefs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Beliefs"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/Beliefs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Beliefs"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/Beliefs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Beliefs"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/Beliefs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Beliefs"
             }
           }
         ]
@@ -165,11 +165,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "10436ac24229a9b5",
   "lastOpenFiles": [
+    "source/content/Career Related/Career Related.md",
+    "source/content/index.md",
+    "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
+    "source/content/Synthesis of Ideas",
+    "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
+    "source/content/Learning Chronicles/Tongue Twisters.md",
+    "source/content/Learning Chronicles/Preparing for My Career with AI.md",
+    "source/content/Learning Chronicles/Learning Chronicles.md",
+    "source/content/Learning Chronicles/Learning Chronicles Log.md",
+    "source/content/Learning Chronicles",
+    "source/content/Interests/Interests.md",
+    "source/content/Interests",
+    "source/content/Career Related",
+    "source/content/Blog/Blog.md",
+    "source/content/Blog",
+    "source/content/Beliefs/Religion/Religion.md",
+    "source/content/Beliefs/Philosophy/Philosophy.md",
+    "source/content/Beliefs/Religion",
+    "source/content/Beliefs/Philosophy",
+    "source/content/Beliefs/Beliefs.md",
+    "source/content/Beliefs",
     "source/README.md",
     "source/CODE_OF_CONDUCT.md",
     "README.md"
