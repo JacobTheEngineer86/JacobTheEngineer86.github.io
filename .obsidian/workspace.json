@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Beliefs/Philosophy/index.md",
+                "file": "source/content/Synthesis of Ideas/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Beliefs/Philosophy/index.md",
+                "file": "source/content/Synthesis of Ideas/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Beliefs/Philosophy/index.md",
+                "file": "source/content/Synthesis of Ideas/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Beliefs/Philosophy/index.md",
+                "file": "source/content/Synthesis of Ideas/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,31 +169,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10436ac24229a9b5",
+  "active": "ca131ac8931ad5d3",
   "lastOpenFiles": [
+    "source/content/Learning Chronicles/index.md",
+    "source/content/Interests/index.md",
+    "source/content/Career Related/index.md",
+    "source/content/Blog/index.md",
+    "source/content/Beliefs/Philosophy/index.md",
     "source/content/Beliefs/Religion/index.md",
     "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
     "source/content/Beliefs/index.md",
     "source/content/index.md",
     "Beliefs.md",
-    "source/content/Blog/Blog.md",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/content/category-folder/index.md",
-    "source/content/Career Related/Career Related.md",
-    "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
+    "source/content/Synthesis of Ideas/index.md",
     "source/content/Synthesis of Ideas",
     "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
     "source/content/Learning Chronicles/Tongue Twisters.md",
     "source/content/Learning Chronicles/Preparing for My Career with AI.md",
-    "source/content/Learning Chronicles/Learning Chronicles.md",
     "source/content/Learning Chronicles/Learning Chronicles Log.md",
     "source/content/Learning Chronicles",
-    "source/content/Interests/Interests.md",
     "source/content/Interests",
     "source/content/Career Related",
     "source/content/Blog",
-    "source/content/Beliefs/Philosophy/index.md",
     "source/content/Beliefs/Religion",
     "source/content/Beliefs/Philosophy",
     "source/content/Beliefs",

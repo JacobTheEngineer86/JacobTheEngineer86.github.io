@@ -1,3 +1,7 @@
+---
+title: Synthesis of Ideas
+---
+
 A place for me to analyze, combine, refute, and distill ideas down.
 
 
