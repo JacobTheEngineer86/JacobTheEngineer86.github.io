@@ -1,3 +1,6 @@
+---
+title: Beliefs
+---
 
 
 The Gospel of Jesus Christ

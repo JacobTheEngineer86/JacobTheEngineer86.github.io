@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Beliefs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,11 +171,12 @@
   },
   "active": "10436ac24229a9b5",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "Beliefs.md",
     "source/content/Beliefs/index.md",
     "source/content/Blog/Blog.md",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
-    "source/content/index.md",
     "source/content/category-folder/index.md",
     "source/content/Career Related/Career Related.md",
     "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
