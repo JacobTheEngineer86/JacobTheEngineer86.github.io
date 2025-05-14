@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Jacob's Website
 ---
 
-Hello world!
-
-42
+Hello World!
