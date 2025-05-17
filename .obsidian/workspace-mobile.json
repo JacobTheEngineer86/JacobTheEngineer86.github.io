@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "83761c00db244632",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7db4dd8c149adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99b69910a51fa18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d8fbdd2f3bc53fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d955c733c71b63e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d8653e542ae55518",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9efdeefe332e7308",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "048f9d69be8a3bba",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8f8c2d2b1d824a36",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe425d0e4ecfbfcb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "source/content/index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7d5fe03f12bcb3fc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "99fa3f0f97fb9126",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b99b69910a51fa18",
+  "lastOpenFiles": [
+    "source/README.md",
+    "source/content/index.md",
+    "source/content/Incoming Ideas/index.md",
+    "source/content/Incoming Ideas",
+    "source/content/Synthesis of Ideas/index.md",
+    "source/content/Learning Chronicles/index.md",
+    "source/content/Interests/index.md",
+    "source/content/Career Related/index.md",
+    "source/content/Blog/index.md",
+    "source/content/category-folder/index.md",
+    "source/content/Beliefs/Philosophy/index.md",
+    "source/content/Beliefs/Religion/index.md",
+    "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
+    "source/content/Beliefs/index.md",
+    "source/content/Learning Chronicles/Tongue Twisters.md",
+    "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
+    "source/content/Beliefs/Beliefs.md",
+    "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
+    "source/content/Learning Chronicles/Learning Chronicles.md",
+    "source/content/Learning Chronicles/Learning Chronicles Log.md",
+    "source/content/Learning Chronicles/Preparing for My Career with AI.md",
+    "source/content/Interests/Interests.md",
+    "source/content/Career Related/Career Related.md",
+    "source/content/Blog/Blog.md",
+    "source/content/Beliefs/Religion/Religion.md",
+    "source/content/Beliefs/Philosophy/Philosophy.md",
+    "source/content/Learning Chronicles",
+    "source/content/Synthesis of Ideas",
+    "source/content/Beliefs/Philosophy",
+    "source/content/Beliefs/Religion",
+    "source/content/Career Related",
+    "source/content/Interests",
+    "source/content/Beliefs",
+    "source/content/Blog",
+    "source/docs/images/giscus-example.png",
+    "source/docs/images/giscus-results.png",
+    "source/docs/images/github-quick-setup.png",
+    "source/docs/images/giscus-repo.png",
+    "source/docs/images/github-init-repo-options.png",
+    "source/docs/images/giscus-discussion.png",
+    "source/docs/images/dns records.png",
+    "source/docs/images/quartz transform pipeline.png",
+    "source/quartz/static/og-image.png",
+    "source/docs/images/quartz-layout-desktop.png",
+    "source/docs/advanced/making plugins.md",
+    "source/quartz/plugins/transformers"
+  ]
+}
