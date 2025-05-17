@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -152,10 +152,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b99b69910a51fa18",
+  "active": "7d955c733c71b63e",
   "lastOpenFiles": [
-    "source/README.md",
+    "2025-05-17.md",
     "source/content/index.md",
+    "source/README.md",
     "source/content/Incoming Ideas/index.md",
     "source/content/Incoming Ideas",
     "source/content/Synthesis of Ideas/index.md",
@@ -198,7 +199,6 @@
     "source/docs/images/quartz transform pipeline.png",
     "source/quartz/static/og-image.png",
     "source/docs/images/quartz-layout-desktop.png",
-    "source/docs/advanced/making plugins.md",
     "source/quartz/plugins/transformers"
   ]
 }
