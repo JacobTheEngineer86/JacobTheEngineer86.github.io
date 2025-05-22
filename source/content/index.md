@@ -1,6 +1,5 @@
 ---
-title: Home
+ti: Home
 ---
-# [[Incoming Ideas]] | [[Learning Chronicles]] | [[Synthesis of Ideas]] | [[Beliefs]] | [[Interests]] | [[Blog]] | [[Career Related]]
-
+# [[Articles]] | [[Blog]] | More on the Way
 

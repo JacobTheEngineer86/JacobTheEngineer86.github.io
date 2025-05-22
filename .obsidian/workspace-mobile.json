@@ -8,17 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b99b69910a51fa18",
+            "id": "27fb277242ffe3c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Blog/Japan Trip - May 2025/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
+            }
+          }
+        ]
+      },
+      {
+        "id": "605db150907f779c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99b69910a51fa18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "May 22nd, 2025 - Salt Lake to Tokyo"
             }
           }
         ]
@@ -98,12 +118,12 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/index.md",
+            "file": "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
+            "showSearch": true,
+            "searchQuery": "Blog",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -154,41 +174,44 @@
   },
   "active": "b99b69910a51fa18",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "2025-05-17.md",
-    "source/README.md",
-    "source/content/Incoming Ideas/index.md",
-    "source/content/Incoming Ideas",
-    "source/content/Synthesis of Ideas/index.md",
-    "source/content/Learning Chronicles/index.md",
-    "source/content/Interests/index.md",
-    "source/content/Career Related/index.md",
+    "source/content/Blog/Japan Trip - May 2025/index.md",
+    "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
+    "source/content/Articles/index.md",
+    "source/content/Blog/Japan Trip - May 2025",
     "source/content/Blog/index.md",
-    "source/content/category-folder/index.md",
-    "source/content/Beliefs/Philosophy/index.md",
-    "source/content/Beliefs/Religion/index.md",
-    "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
-    "source/content/Beliefs/index.md",
-    "source/content/Learning Chronicles/Tongue Twisters.md",
-    "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
-    "source/content/Beliefs/Beliefs.md",
-    "source/content/Synthesis of Ideas/Synthesis of Ideas.md",
-    "source/content/Learning Chronicles/Learning Chronicles.md",
-    "source/content/Learning Chronicles/Learning Chronicles Log.md",
-    "source/content/Learning Chronicles/Preparing for My Career with AI.md",
-    "source/content/Interests/Interests.md",
-    "source/content/Career Related/Career Related.md",
-    "source/content/Blog/Blog.md",
-    "source/content/Beliefs/Religion/Religion.md",
-    "source/content/Beliefs/Philosophy/Philosophy.md",
-    "source/content/Learning Chronicles",
-    "source/content/Synthesis of Ideas",
-    "source/content/Beliefs/Philosophy",
-    "source/content/Beliefs/Religion",
-    "source/content/Career Related",
-    "source/content/Interests",
-    "source/content/Beliefs",
+    "source/content/index.md",
     "source/content/Blog",
+    "source/content/Articles",
+    "content-backup/content/index.md",
+    "source/content",
+    "content-backup",
+    "source/quartz/static/icon.png",
+    "source/quartz/static/og-image.png",
+    "source/README.md",
+    "source/docs/build.md",
+    "source/docs/setting up your GitHub repository.md",
+    "source/docs/showcase.md",
+    "source/docs/upgrading.md",
+    "source/docs/hosting.md",
+    "source/docs/layout.md",
+    "LICENSE",
+    "source/quartz.config.ts",
+    "source/index.d.ts",
+    "source/quartz/build.ts",
+    "source/quartz/worker.ts",
+    "2025-05-17.md",
+    "content-backup/content/Incoming Ideas/index.md",
+    "content-backup/content/Synthesis of Ideas/index.md",
+    "content-backup/content/Learning Chronicles/index.md",
+    "content-backup/content/Interests/index.md",
+    "content-backup/content/Career Related/index.md",
+    "content-backup/content/Blog/index.md",
+    "source/content/category-folder/index.md",
+    "content-backup/content/Beliefs/Philosophy/index.md",
+    "content-backup/content/Beliefs/Religion/index.md",
+    "content-backup/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
+    "content-backup/content/Beliefs/index.md",
+    "content-backup/content/Learning Chronicles/Tongue Twisters.md",
     "source/docs/images/giscus-example.png",
     "source/docs/images/giscus-results.png",
     "source/docs/images/github-quick-setup.png",
@@ -196,9 +219,6 @@
     "source/docs/images/github-init-repo-options.png",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/dns records.png",
-    "source/docs/images/quartz transform pipeline.png",
-    "source/quartz/static/og-image.png",
-    "source/docs/images/quartz-layout-desktop.png",
-    "source/quartz/plugins/transformers"
+    "source/docs/images/quartz transform pipeline.png"
   ]
 }
