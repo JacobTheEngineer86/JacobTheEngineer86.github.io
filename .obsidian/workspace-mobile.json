@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May 22nd, 2025 - Salt Lake to Tokyo"
+              "title": "index"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
+            "file": "source/content/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,8 +174,8 @@
   },
   "active": "b99b69910a51fa18",
   "lastOpenFiles": [
-    "source/content/Blog/Japan Trip - May 2025/index.md",
     "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
+    "source/content/Blog/Japan Trip - May 2025/index.md",
     "source/content/Articles/index.md",
     "source/content/Blog/Japan Trip - May 2025",
     "source/content/Blog/index.md",
