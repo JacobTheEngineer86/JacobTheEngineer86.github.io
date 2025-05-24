@@ -5,7 +5,7 @@ I’m sitting on my flight to Los Angelos now, and I just finished up writing ou
 
 There’s a piano here at the LA airport, so I went ahead and played it! I played Tribute by Jon Schmidt. 
 
-![](docs/images/IMG_9133.jpeg)
+![](images/IMG_9133.jpeg)
 
 ![](../../../docs/images/IMG_9133.jpeg)
 
