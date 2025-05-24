@@ -1,5 +1,7 @@
 {
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "source/docs/images"
 }
