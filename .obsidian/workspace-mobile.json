@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "01a7826ef8a5a8c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "605db150907f779c",
@@ -162,7 +173,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "8f8c2d2b1d824a36",
@@ -174,7 +185,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/Blog/Japan Trip - May 2025/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -228,16 +238,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27fb277242ffe3c4",
+  "active": "7d955c733c71b63e",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "source/content/Blog/Japan Trip - May 2025/index.md",
     "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
     "source/content/Blog/Japan Trip - May 2025/May 23rd, 2025 - Tokyo.md",
     "source/content/Blog/Japan Trip - May 2025/May 24th, 2025 - Tokyo to Ueda.md",
     "source/docs/hosting.md",
     "source/docs/images/dns records.png",
-    "source/content/Blog/Japan Trip - May 2025/index.md",
-    "IMG_9133.jpeg",
-    "source/content/index.md",
+    "source/docs/images/IMG_9133.jpeg",
     "source/content/Blog/index.md",
     "Blog.md",
     "source/content/Articles/index.md",
