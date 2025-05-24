@@ -3,6 +3,6 @@ I’m sitting on my flight to Los Angelos now, and I just finished up writing ou
 
 ---
 
-There’s a piano here at the LA airport, so I went ahead and played it! I played Tribute by Jon Schmidt (No, not Tribute by Tenacious D, that would’ve been too epic).
+There’s a piano here at the LA airport, so I went ahead and played it! I played Tribute by Jon Schmidt. 
 
-![](IMG_9133.jpeg)
+![[IMG_9133.jpeg]]
