@@ -4,7 +4,7 @@
 
 Jon is such a great cousin! He cooked me breakfast and took me to Ueda castle, where we played some handpan. He’s a fantastic handpan player, and he gave me a few tips on how to play better. 
 
-< photos >
+![[../../images/IMG_9217.mov]]
 
 ---
 
