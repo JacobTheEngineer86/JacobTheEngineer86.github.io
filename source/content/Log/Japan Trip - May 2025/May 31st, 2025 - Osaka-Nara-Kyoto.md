@@ -1,0 +1,7 @@
+- Tomo’s place
+- Nara deer park
+- Hotel
+- Nishiki food market
+- Maruyama Park
+- Pagoda
+- Fushimi Inari night hike
