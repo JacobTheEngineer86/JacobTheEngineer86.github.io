@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# [[Articles]] | [[Blog]] | More on the Way
+# [[Articles]] | [[Log]] | More on the Way
 
 
 

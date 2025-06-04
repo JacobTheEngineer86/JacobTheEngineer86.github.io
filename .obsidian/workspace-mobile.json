@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "May 22nd, 2025 - Salt Lake to Tokyo"
             }
           },
           {
@@ -175,7 +175,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/index.md",
+            "file": "source/content/Log/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,17 +231,16 @@
   },
   "active": "68554ea960364a2d",
   "lastOpenFiles": [
-    "source/content/Blog/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
-    "source/content/Blog/Japan Trip - May 2025/index.md",
-    "source/content/Blog/Japan Trip - May 2025/May 23rd, 2025 - Tokyo.md",
-    "source/content/Blog/Japan Trip - May 2025/May 24th, 2025 - Tokyo to Ueda.md",
-    "source/content/Blog/Japan Trip - May 2025",
-    "source/content/Blog/index.md",
-    "source/content/Blog",
-    "source/docs/images/IMG_9215.mov",
+    "source/content/Log/index.md",
     "source/content/index.md",
     "source/content/Log/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
-    "source/content/Log/index.md",
+    "source/content/Log/Japan Trip - May 2025/index.md",
+    "source/content/Log/Japan Trip - May 2025/May 23rd, 2025 - Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/May 24th, 2025 - Tokyo to Ueda.md",
+    "source/content/Log/Japan Trip - May 2025",
+    "source/content/Log",
+    "source/docs/images/IMG_9215.mov",
+    "source/content/Log/Japan Trip - May 2025/May 22nd, 2025 - Salt Lake to Tokyo.md",
     "source/content/Log/Japan Trip - May 2025/May 27th, 2025 - Izunokuni-Shuzenji-Kawazu.md",
     "source/content/Log/Japan Trip - May 2025/June 1st, 2025 - Kyoto-Osaka-Salt Lake City.md",
     "source/content/Log/Japan Trip - May 2025/index.md",
