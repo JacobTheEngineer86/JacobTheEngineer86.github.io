@@ -5,16 +5,16 @@ I’m sitting on my flight to Los Angelos now, and I just finished up writing ou
 
 There’s a piano here at the LA airport, so I went ahead and played it to pass the time.
 
-![[IMG_9133.jpeg]]
 
-![[/images/IMG_9133.jpeg]]
+
+![](Images/IMG_9133.jpeg)
+
 
 ![images/IMG_9133.jpeg](images/IMG_9133.jpeg)
 
 ![IMG_9133](../../../docs/images/IMG_9133.jpeg)
 
 
-![](/images/IMG_9133.jpeg)
 
 ![](../../../docs/images/IMG_9133.jpeg)
 
