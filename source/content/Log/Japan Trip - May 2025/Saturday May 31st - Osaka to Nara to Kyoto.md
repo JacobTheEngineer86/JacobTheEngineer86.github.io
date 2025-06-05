@@ -7,5 +7,24 @@
 - Hotel
 - Nishiki food market
 - Maruyama Park
-- Pagoda
-- Fushimi Inari night hike
+
+Yasaka Pagoda
+![](IMG_0005.jpeg)
+![](IMG_0003.jpeg)
+![](IMG_9995.jpeg)
+
+
+Fushimi Inari night hike
+
+![](IMG_0079.jpeg)
+![](IMG_0063.jpeg)
+![](IMG_0062.jpeg)
+![](IMG_0025.jpeg)
+![](IMG_0059.jpeg)
+![](IMG_0049.jpeg)
+![](IMG_0043.mov)
+![](IMG_0040.jpeg)
+![](IMG_0039.jpeg)
+![](IMG_0030.mov)
+![](IMG_0026.mov)
+![](IMG_0064.jpeg)

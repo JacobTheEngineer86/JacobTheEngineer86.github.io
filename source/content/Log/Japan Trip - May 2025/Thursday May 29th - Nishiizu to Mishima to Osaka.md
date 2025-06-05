@@ -2,4 +2,30 @@
 
 ---
 
+![](IMG_9592.jpeg)
+![](IMG_9593.jpeg)
+![](IMG_9599.jpeg)
+![](IMG_9601.jpeg)
+![](IMG_9604.jpeg)
+
+![](IMG_9606.jpeg)
+
+---
+
 Man, Tomo is awesome! We went out for some amazing food, he walked us around Osaka, and we’re staying at his place tonight. He’s such a good, considerate host - he has a wealth of knowledge about things to do and places to go, and Justin and I had such a great time with him! 
+
+![](IMG_9618.jpeg)
+![](IMG_9617.jpeg)
+
+![](IMG_9631.jpeg)
+![](IMG_9636.jpeg)
+![](IMG_9634.jpeg)
+![](IMG_9662.jpeg)
+![](IMG_9658.jpeg)
+
+![](78a95630-9c1f-4cd0-bedd-e3b73c09325c.jpeg)
+
+The ice cream mochi is so good!!!
+![](a6499282-a621-4750-91f5-f2ddac38436a.jpeg)
+
+

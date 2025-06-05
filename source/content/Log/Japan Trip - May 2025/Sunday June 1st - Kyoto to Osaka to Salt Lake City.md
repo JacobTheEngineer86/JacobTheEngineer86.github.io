@@ -9,12 +9,14 @@ Well today is an extremely long June 1st for me - I spent the whole morning in K
 Justin and I visited the Arashiyama bamboo forest and Kiyomizu Dera this morning, and this visit was much less crowded than my last visit! We woke up at 4:42 a.m. (because why not 😄) and got to the bamboo forest at 6 a.m. It was soooooo nice! It was raining while we were there, which made it misty and relaxing. 
 
 Arashiyama Bamboo Grove
-![](../../../docs/images/IMG_0096.jpeg)
-![](../../../docs/images/IMG_0087.mov)
-![](../../../docs/images/IMG_0100.jpeg)
-![](../../../docs/images/IMG_0110.mov)
-![](../../../docs/images/IMG_0112.jpeg)
-![](../../../docs/images/IMG_0109.jpeg)
+![](IMG_0097.jpeg)
+![](IMG_0091.jpeg)
+![](IMG_0096.jpeg)
+![](IMG_0100.jpeg)
+![](source/content/images/IMG_0087.mov)
+![](IMG_0098.mov)
+
+
 
 Kiyomizu Dera
 ![](../../../docs/images/IMG_0131.jpeg)
@@ -35,7 +37,7 @@ Well, as the generic tourist, I bought a suitcase in Japan and stuffed it with m
 
 It seems appropriate that my last meal before leaving Japan should be some good ole’ salmon sushi 😄
 
-![](../../../docs/images/IMG_0141.jpeg)
+![](IMG_0141.jpeg)
 
 ---
 

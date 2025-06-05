@@ -2,3 +2,37 @@
 
 ---
 
+Kawazu
+![](IMG_9516.mov)
+![](IMG_9517.jpeg)
+![](IMG_9520.mov)
+![](IMG_9519.jpeg)
+![](IMG_9524.jpeg)
+![](IMG_9528.jpeg)
+![](IMG_9532.mov)
+
+
+Izu Kogen - Jogasaki Coast
+![](IMG_9535.jpeg)
+![](IMG_9540.jpeg)
+![](IMG_9541.mov)
+![](IMG_9544.jpeg)
+![](IMG_9550.jpeg)
+![](IMG_9553.mov)
+![](IMG_9554.jpeg)
+![](IMG_9555.mov)
+
+![](IMG_9557.jpeg)
+
+
+Koganezaki Park
+![](IMG_9577.mov)
+![](IMG_9579.jpeg)
+![](IMG_9582.jpeg)
+![](IMG_9584.jpeg)
+
+
+
+
+
+
