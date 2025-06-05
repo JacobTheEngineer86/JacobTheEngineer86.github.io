@@ -3,6 +3,19 @@
 ---
 
 I took the Izu Panorama Park cable car to a cool park with great views of Mount Fuji!
+
+![](IMG_9425.jpeg)
+![](IMG_9424.jpeg)
+![](IMG_9426.jpeg)
+![](IMG_9427.jpeg)
+![](IMG_9436.jpeg)
+![](IMG_9430.jpeg)
+![](IMG_9443.jpeg)
+![](IMG_9442.mov)
+
+
+
+
 ![](../../../docs/images/IMG_9423.jpeg)
 ![](../../../docs/images/IMG_9424.jpeg)
 ![](../../../docs/images/IMG_9426.jpeg)
@@ -17,6 +30,9 @@ I took the Izu Panorama Park cable car to a cool park with great views of Mount 
 
 I’ve been relaxing here in a hammock for the last while, updating my log for this Japan trip. I love just relaxing, not having to worry about the next thing I’m going to do. I have plans for the rest of the day, but I get to go at my own pace.
 
+![](IMG_9448.jpeg)
+![](IMG_9439.mov)
+
 ---
 
 Shuzenji
@@ -25,24 +41,35 @@ Such a great time in Shuzenji! First thing I did here was find a hiking trail th
 
 There was a nice old man at a booth on the street. We started talking a bit, and he offered me a piece of meat he was cooking. I don’t actually know what the meat was, but it was delicious! 
 
-![](../../../docs/images/IMG_9454.jpeg)
-![](../../../docs/images/IMG_9457.jpeg)
-![](../../../docs/images/IMG_9456.mov)
-![](../../../docs/images/IMG_9460.jpeg)
-![](../../../docs/images/IMG_9462.jpeg)
-![](../../../docs/images/IMG_9464.jpeg)
-![](../../../docs/images/IMG_9469.jpeg)
-![](../../../docs/images/IMG_9471.jpeg)
-![](../../../docs/images/IMG_9470.jpeg)
-![](../../../docs/images/IMG_9473.jpeg)
+![](IMG_9453.jpeg)
+![](IMG_9456.mov)
+![](IMG_9457.jpeg)
+![](IMG_9458.jpeg)
+
+
+![](IMG_9460.jpeg)
+
+![](IMG_9464.jpeg)
+![](IMG_9463.jpeg)
+
+![](IMG_9472.jpeg)
+![](IMG_9473.jpeg)
 
 ---
 
 Oh man, the Kawazu Seven Waterfalls hike is an absolute highlight of this trip! I loved it so much. If that were the only thing I did all week, I’d be happy! I took so many pictures, and I recorded most of the hike on my GoPro. 
-![](../../../docs/images/IMG_9481.jpeg)
-< so many good photos >
+
+![](IMG_9478.jpeg)
+![](IMG_9483.jpeg)
+![](IMG_9485.jpeg)
+![](IMG_9484.jpeg)
+![](IMG_9492.jpeg)
+![](IMG_9498.jpeg)
+![](IMG_9499.jpeg)
+![](IMG_9488.jpeg)
 
 ---
-
 Hehe, I stayed the night at a hotel in Kawazu, and I definitely pulled the dumb foreigner card. I couldn’t find parking at the hotel, so I found another place to park. I looked on Google maps if it was paid parking, and I translated the signs around the parking lot to English using Google translate, and didn’t see anything that said it was paid parking. So I parked there and walked down to the beach (which was pretty cool at night!). When I walked back to the car, someone was there - he was probably in his early 20s, and didn’t speak a ton of English. And I don’t speak much Japanese, so we communicated using my phone to translate. He told me it wasn’t free parking, and helped me pay for it. He was so nice - I hate being the dumb foreigner, but you have to be a dumb foreigner before you can be a smart foreigner. 😆
 
+![](IMG_9508.jpeg)
+![](IMG_9506.jpeg)
