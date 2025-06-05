@@ -6,7 +6,17 @@ I’m loving being outside of Tokyo! Don’t get me wrong, Tokyo is great, but I
 
 After taking a walk around Ueno park, I left for Ueda. My cousin Jon, who’s been living in Japan for over four years now, showed me around some great places. We went to an amazing onsen with some amazing food, visited the rice patties where he occasionally works, walked around *** - where he lived for a while, then ate some rice tacos at one of his friend’s restaurant. 
 
+My capsule hotel near Ueno Park
+![[IMG_9167.jpeg]]
+![[IMG_9168.jpeg]]
 
 
+![[IMG_9177.jpeg]]
+![[IMG_9182.jpeg]]
+![[IMG_9189.jpeg]]
+![[IMG_9197.jpeg]]
+![[IMG_9206.jpeg]]
+![[IMG_9198.jpeg]]
 
-
+We had some pretty amazing tacos here!
+![[IMG_9210.jpeg]]
