@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Log/Japan Trip - May 2025/Thursday May 22nd - Salt Lake City to Tokyo.md",
+                "file": "source/content/Log/Japan Trip - May 2025/11. Sunday June 1st - Kyoto to Osaka to Salt Lake City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thursday May 22nd - Salt Lake City to Tokyo"
+              "title": "11. Sunday June 1st - Kyoto to Osaka to Salt Lake City"
             }
           }
         ]
@@ -171,10 +171,17 @@
   },
   "active": "26ec465d87f41066",
   "lastOpenFiles": [
+    "source/content/Log/Japan Trip - May 2025/10. Saturday May 31st - Osaka to Nara to Kyoto.md",
+    "source/content/Log/Japan Trip - May 2025/9. Friday May 30th - Osaka.md",
+    "source/content/Log/Japan Trip - May 2025/8. Thursday May 29th - Nishiizu to Mishima to Osaka.md",
+    "source/content/Log/Japan Trip - May 2025/7. Wednesday May 28th - Kawazu to Izu Kogen to Nishiizu.md",
+    "source/content/Log/Japan Trip - May 2025/6. Tuesday May 27th - Izunokuni to Shuzenji to Kawazu.md",
+    "source/content/Log/Japan Trip - May 2025/5. Monday May 26th - Tokyo to Atami to Hakone to Izunokuni.md",
+    "source/content/Log/Japan Trip - May 2025/4. Sunday May 25th - Ueda to Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/3. Saturday May 24th - Tokyo to Ueda.md",
+    "source/content/Log/Japan Trip - May 2025/2. Friday May 23rd - Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/1. Thursday May 22nd - Salt Lake City to Tokyo.md",
     "source/content/Log/Japan Trip - May 2025/index.md",
-    "source/content/Log/Japan Trip - May 2025/Friday May 23rd - Tokyo.md",
-    "source/content/Log/Japan Trip - May 2025/Thursday May 29th - Nishiizu to Mishima to Osaka.md",
-    "source/content/Log/Japan Trip - May 2025/Wednesday May 28th - Kawazu to Izu Kogen to Nishiizu.md",
     "source/quartz/processors/filter.ts",
     "source/quartz/processors/emit.ts",
     "source/quartz/plugins/vfile.ts",
@@ -185,25 +192,18 @@
     "source/quartz/plugins/transformers/oxhugofm.ts",
     "source/quartz/plugins/transformers/ofm.ts",
     "source/quartz/plugins/transformers/links.ts",
-    "source/content/Log/Japan Trip - May 2025/Sunday June 1st - Kyoto to Osaka to Salt Lake City.md",
+    "source/content/Log/Japan Trip - May 2025/11. Sunday June 1st - Kyoto to Osaka to Salt Lake City.md",
     "source/content/images/IMG_0100.jpeg",
     "source/content/images/IMG_0096.jpeg",
     "source/content/images/IMG_0091.jpeg",
     "source/content/images/IMG_0097.jpeg",
     "source/content/images/IMG_0141.jpeg",
-    "source/content/Log/Japan Trip - May 2025/Saturday May 31st - Osaka to Nara to Kyoto.md",
     "source/content/images/IMG_9995.jpeg",
     "source/content/images/IMG_0003.jpeg",
     "source/content/images/IMG_0005.jpeg",
     "source/content/images/IMG_0064.jpeg",
     "source/content/images/IMG_0039.jpeg",
-    "source/content/Log/Japan Trip - May 2025/Tuesday May 27th - Izunokuni to Shuzenji to Kawazu.md",
-    "source/content/Log/Japan Trip - May 2025/Saturday May 24th - Tokyo to Ueda.md",
-    "source/content/Log/Japan Trip - May 2025/Monday May 26th - Tokyo to Atami to Hakone to Izunokuni.md",
-    "source/content/Log/Japan Trip - May 2025/Sunday May 25th - Ueda to Tokyo.md",
     "source/content/index.md",
-    "source/content/Log/Japan Trip - May 2025/Friday May 30th - Osaka.md",
-    "source/content/Log/Japan Trip - May 2025/Thursday May 22nd - Salt Lake City to Tokyo.md",
     "source/docs/advanced/making plugins.md",
     "source/docs/features/explorer.md",
     "source/docs/hosting.md",
