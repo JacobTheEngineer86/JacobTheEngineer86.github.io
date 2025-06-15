@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "source/content/images"
+  "attachmentFolderPath": "source/content/images",
+  "alwaysUpdateLinks": true
 }
