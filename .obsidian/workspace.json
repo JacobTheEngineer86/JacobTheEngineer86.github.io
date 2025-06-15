@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ca4cdba018944e92",
+    "id": "bba741f641f1eb0c",
     "type": "split",
     "children": [
       {
-        "id": "9c7d7eb77ac9ae58",
+        "id": "9ad0ef6a7f05f0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "10436ac24229a9b5",
+            "id": "26ec465d87f41066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Synthesis of Ideas/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/01. Thursday May 22nd - Salt Lake City to Tokyo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "01. Thursday May 22nd - Salt Lake City to Tokyo"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e8327b19688f3ae",
+    "id": "01606144d172f11d",
     "type": "split",
     "children": [
       {
-        "id": "d981f1f3a5609c81",
+        "id": "1170fc52e307392a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca131ac8931ad5d3",
+            "id": "eff751e42bd0cb9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "e0b969ea2d6daf5c",
+            "id": "c0b2e82bbf2f717f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "922a26c85dbbd100",
+            "id": "21c2eb169aee9eef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 497.5
   },
   "right": {
-    "id": "246c1d55f070f0c3",
+    "id": "7dac4f1ec02fd091",
     "type": "split",
     "children": [
       {
-        "id": "e0e0d335689ab2c6",
+        "id": "61f8c6ffdfed6a3e",
         "type": "tabs",
         "children": [
           {
-            "id": "76b70fd2cc910aab",
+            "id": "8d140a1f73cb5129",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Synthesis of Ideas/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "1ebfe940683e3652",
+            "id": "cc9f551dc0391ff5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Synthesis of Ideas/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "2f07722cd4c57d53",
+            "id": "0efee932b2df8a40",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "c750b1c9971b01c2",
+            "id": "5f522c18819a9355",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Synthesis of Ideas/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,39 +166,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ca131ac8931ad5d3",
+  "active": "26ec465d87f41066",
   "lastOpenFiles": [
-    "source/content/Learning Chronicles/index.md",
-    "source/content/Interests/index.md",
-    "source/content/Career Related/index.md",
-    "source/content/Blog/index.md",
-    "source/content/Beliefs/Philosophy/index.md",
-    "source/content/Beliefs/Religion/index.md",
-    "source/content/Beliefs/Religion/Personal Growth from Living the Gospel.md",
-    "source/content/Beliefs/index.md",
+    "source/content/Log/Japan Trip - May 2025/02. Friday May 23rd - Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/03. Saturday May 24th - Tokyo to Ueda.md",
+    "source/content/Log/Japan Trip - May 2025/04. Sunday May 25th - Ueda to Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/05. Monday May 26th - Tokyo to Atami to Hakone to Izunokuni.md",
+    "source/content/Log/Japan Trip - May 2025/06. Tuesday May 27th - Izunokuni to Shuzenji to Kawazu.md",
+    "source/content/Log/Japan Trip - May 2025/07. Wednesday May 28th - Kawazu to Izu Kogen to Nishiizu.md",
+    "source/content/Log/Japan Trip - May 2025/08. Thursday May 29th - Nishiizu to Mishima to Osaka.md",
+    "source/content/Log/Japan Trip - May 2025/09. Friday May 30th - Osaka.md",
+    "source/content/Log/Japan Trip - May 2025/10. Saturday May 31st - Osaka to Nara to Kyoto.md",
+    "source/content/Log/Japan Trip - May 2025/11. Sunday June 1st - Kyoto to Osaka to Salt Lake City.md",
+    "source/content/Log/Japan Trip - May 2025/01. Thursday May 22nd - Salt Lake City to Tokyo.md",
+    "source/content/Log/Japan Trip - May 2025/index.md",
+    "source/quartz/processors/filter.ts",
+    "source/quartz/processors/emit.ts",
+    "source/quartz/plugins/vfile.ts",
+    "source/quartz/plugins/types.ts",
+    "source/quartz/plugins/transformers/toc.ts",
+    "source/quartz/plugins/transformers/syntax.ts",
+    "source/quartz/plugins/transformers/roam.ts",
+    "source/quartz/plugins/transformers/oxhugofm.ts",
+    "source/quartz/plugins/transformers/ofm.ts",
+    "source/quartz/plugins/transformers/links.ts",
+    "source/content/images/IMG_0100.jpeg",
+    "source/content/images/IMG_0096.jpeg",
+    "source/content/images/IMG_0091.jpeg",
+    "source/content/images/IMG_0097.jpeg",
+    "source/content/images/IMG_0141.jpeg",
+    "source/content/images/IMG_9995.jpeg",
+    "source/content/images/IMG_0003.jpeg",
+    "source/content/images/IMG_0005.jpeg",
+    "source/content/images/IMG_0064.jpeg",
+    "source/content/images/IMG_0039.jpeg",
     "source/content/index.md",
-    "Beliefs.md",
-    "source/quartz/static/og-image.png",
-    "source/quartz/static/icon.png",
-    "source/content/category-folder/index.md",
-    "source/content/Synthesis of Ideas/index.md",
-    "source/content/Synthesis of Ideas",
-    "source/content/Learning Chronicles/Vocal Exercises - Speak and Think Faster.md",
-    "source/content/Learning Chronicles/Tongue Twisters.md",
-    "source/content/Learning Chronicles/Preparing for My Career with AI.md",
-    "source/content/Learning Chronicles/Learning Chronicles Log.md",
-    "source/content/Learning Chronicles",
-    "source/content/Interests",
-    "source/content/Career Related",
-    "source/content/Blog",
-    "source/content/Beliefs/Religion",
-    "source/content/Beliefs/Philosophy",
-    "source/content/Beliefs",
-    "source/README.md",
-    "source/CODE_OF_CONDUCT.md",
-    "README.md"
+    "source/docs/advanced/making plugins.md",
+    "source/docs/features/explorer.md",
+    "source/docs/hosting.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
+    "source/docs/configuration.md",
+    "source/docs/philosophy.md",
+    "source/docs/layout.md",
+    "source/docs/migrating from Quartz 3.md",
+    "source/docs/features/syntax highlighting.md",
+    "source/docs/features/comments.md",
+    "source/docs/advanced/paths.md"
   ]
 }
