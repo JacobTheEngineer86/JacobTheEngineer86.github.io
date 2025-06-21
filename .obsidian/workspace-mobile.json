@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Log/index.md",
+                "file": "source/content/Log/Japan Trip - May 2025/09. Friday May 30th - Osaka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "09. Friday May 30th - Osaka"
             }
           }
         ]
@@ -147,12 +147,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "4a11a6a1cb1ff654",
   "lastOpenFiles": [
+    "source/content/images/IMG_9727.jpeg",
+    "source/content/images/IMG_9713.jpeg",
+    "source/content/images/IMG_9682.jpeg",
+    "source/content/images/IMG_9816.jpeg",
+    "Log.md",
     "source/content/index.md",
     "source/content/Log/index.md",
     "Japan Trip - May 2025.md",
@@ -180,11 +184,8 @@
     "source/content/Log/Japan Trip - May 2025/Saturday May 31st - Osaka to Nara to Kyoto.md",
     "source/content/images/IMG_9995.jpeg",
     "source/content/images/IMG_0003.jpeg",
-    "source/content/images/IMG_0005.jpeg",
-    "source/content/images/IMG_0064.jpeg",
     "source/content/images/IMG_0026.mov",
     "source/content/images/IMG_0030.mov",
-    "source/content/images/IMG_0039.jpeg",
     "source/content/images/IMG_0043.mov",
     "source/content/Log/Japan Trip - May 2025/Friday May 30th - Osaka.md",
     "source/content/Log/Japan Trip - May 2025/Thursday May 29th - Nishiizu to Mishima to Osaka.md",
@@ -197,8 +198,6 @@
     "source/content/Log/Japan Trip - May 2025/Monday May 26th - Tokyo to Atami to Hakone to Izunokuni.md",
     "source/content/Log/Japan Trip - May 2025/Sunday May 25th - Ueda to Tokyo.md",
     "source/content/Log/Japan Trip - May 2025/Saturday May 24th - Tokyo to Ueda.md",
-    "source/content/Log/Japan Trip - May 2025/Sunday June 1st - Kyoto to Osaka to Salt Lake City.md",
-    "source/content/Log/Japan Trip - May 2025/May 30th, 2025 - Osaka.md",
     "Untitled.canvas"
   ]
 }
