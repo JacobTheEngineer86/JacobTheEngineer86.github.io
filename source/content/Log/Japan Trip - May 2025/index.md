@@ -5,7 +5,7 @@ I’m so excited, I’ve been looking forward to this for so long! This’ll be 
 
 Here’s my plans as of now, we’ll see if they change. Except for the lodging, I’ve already paid for that :)
 
-### Friday
+## Friday
 Fly into Tokyo, do some shopping for motorcycle gear, and meetup with Justin for dinner.
 
 ## Saturday
