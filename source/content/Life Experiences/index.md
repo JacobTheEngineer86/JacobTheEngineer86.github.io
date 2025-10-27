@@ -1,5 +1,5 @@
 ---
-title: Log
+title: Life Experiences
 ---
 [[Japan Trip - May 2025]]
 
