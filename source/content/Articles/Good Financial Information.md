@@ -15,7 +15,7 @@ There are multiple ways used to calculate a credit score. FICO and Vantage are t
 
 To make it even more confusing, there are multiple versions of a FICO score (FICO 8, FICO 9, FICO 10), and a company can choose which FICO score to look at. FICO 8 is currently the most common, but that doesn’t mean all companies use it. 
 
-So, the bottom line is:
+So bottom line:
 1) Work on improving your credit without getting bogged down by the details of which credit score to track, and
 2) Trust FICO more than Vantage, and when you need a large loan (like for a house or a car), look deeper into the specific credit score needed for that specific loan. 
 
