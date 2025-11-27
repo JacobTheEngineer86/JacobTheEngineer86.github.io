@@ -17,7 +17,7 @@ My goals with this website are to:
 - Share some of my life experiences, interests, and beliefs
 - Do anything else I want!
 
-This website is going to be messy, and it’s going to show my work in various stages of completion. And that’s partially the point. If I were to wait until I had a perfect website, I would never have a website. In the words of Voltaire, *“the best is the enemy of the good”.* 
+This website is going to be messy, and it’s going to show my work in various stages of completion. And that’s partially the point. If I were to wait until this website is perfect, I would never have a website. In the words of Voltaire, *“the best is the enemy of the good”.* 
 
 There’s beauty in chaos, especially when pieces of that chaos come together into something truly profound. It’s fascinating to think about all the amazing things that emerge from chaos - a group of strangers coming together to form a special bond of friendship, a project that, despite immense difficulty, successfully lands a man on the moon, and (hopefully!) a website built by a random engineer who loves discovering connections in the world. 
 
