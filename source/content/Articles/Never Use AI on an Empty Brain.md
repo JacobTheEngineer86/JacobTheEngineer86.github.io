@@ -1,0 +1,1 @@
+https://every.to/p/think-first-ai-second?utm_source=tldrfounders
