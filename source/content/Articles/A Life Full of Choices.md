@@ -3,16 +3,18 @@
 Life is full of choices. 
 
 *“Is it time for a career change?”*
+
 *“What movie should I watch tonight?”* 
+
 *“Do I bring up this difficult conversation with a close friend?”*
+
 *“Should I finish reading this article?”*
 
+---
 
-Not a day goes by without us having to make decisions, judgement calls, choices. 
+What happens when you make the wrong decision? Have you lost out on something grand? Will you be filled with regret for the rest of your life? 
 
-So what happens when you make the wrong decision? Have you lost out on something grand? Will you be filled with regret for the rest of your life? 
-
-
+---
 
 I can learn from my past choices, but I can never go back and change a choice that I already made. That’s terrifying and exhilarating. Terrifying because my actions, once made, are set in stone. Exhilarating because every single choice I make is *my choice* - I am in complete control of who I become. 
 
@@ -60,7 +62,7 @@ Say I made a choice to watch TV instead of going for a run.
 That’s a vote against a healthy lifestyle. 
 
 
-
+---
 
 
 
