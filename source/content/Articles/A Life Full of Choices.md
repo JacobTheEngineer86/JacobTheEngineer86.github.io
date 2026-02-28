@@ -12,6 +12,24 @@ Life is full of choices.
 
 ---
 
+I recently came across Robert Frost’s poem again, “The Road Not Taken”. It struck me how, when facing difficult choices in life, what’s so much more important than *the choices we make* is *the person we become*. These two ideas are very similar and interconnected, but they’re not the same. 
+
+It is true that the choices we make are a large product of the person we are. Under normal circumstances, a man who values honesty and integrity will likely never rob a bank. 
+
+
+Two people, Tim and Todd, are given the same set of choices, A and B. Tim and Todd have different backgrounds, values, and principles they live by. Assume both Tim and Todd choose option A. 
+
+---
+
+
+The Participatory Universe - The environment affects our choices, and our choices affect the environment.
+
+”The day the flesh brings, and the flesh the day brings.“ 
+-- Leto Atreides, Dune
+
+
+---
+
 What happens when you make the wrong decision? Have you lost out on something grand? Will you be filled with regret for the rest of your life? 
 
 ---
@@ -20,7 +38,7 @@ I can learn from my past choices, but I can never go back and change a choice th
 
 Nobody else, nothing else, determines who I will become – that is a privilege and responsibility that only I hold. My entire life is an act of creation – of creating myself.  
 
-I choose to create the best possible version of myself. One beautiful thing about this way of thinking is that there is no singular, predetermined “best” version of myself - there are only potentials and possibilities. It’s not guaranteed that I’m going to be successful in what I do, but the act of striving makes success meaningful. 
+I choose to create the best possible version of myself. One beautiful thing about this way of thinking is that there is no singular, predetermined “best” version of myself - there are only potentials and possibilities. It’s not guaranteed that I’m going to be successful in what I do, but the acts of striving and growing make success meaningful. 
 
 ---
 
@@ -64,7 +82,11 @@ That’s a vote against a healthy lifestyle.
 
 ---
 
+“I have come to understand that before choices, come our desires. Our desires influence our choices ….” Elder Andersen
 
+We are responsible for our desires. 
+
+---
 
 
 *Two roads diverged in a yellow wood,*  
@@ -95,4 +117,18 @@ That’s a vote against a healthy lifestyle.
 
 
 
+---
 
+Find a goal for every article - “voice” goal, style goal, end product goal
+
+How do I find my voice? 
+- Practice
+- Editing
+
+Goal: Draft this article
+
+
+To Do:
+- [ ] Write my entry for the lexicon activity
+- [ ] Write draft of my first article
+	- [ ] Define my goal
