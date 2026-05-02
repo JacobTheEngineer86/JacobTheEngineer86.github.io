@@ -12,24 +12,6 @@ Life is full of choices.
 
 ---
 
-I recently came across Robert Frost’s poem again, “The Road Not Taken”. It struck me how, when facing difficult choices in life, what’s so much more important than *the choices we make* is *the person we become*. These two ideas are very similar and interconnected, but they’re not the same. 
-
-It is true that the choices we make are a large product of the person we are. Under normal circumstances, a man who values honesty and integrity will likely never rob a bank. 
-
-
-Two people, Tim and Todd, are given the same set of choices, A and B. Tim and Todd have different backgrounds, values, and principles they live by. Assume both Tim and Todd choose option A. 
-
----
-
-
-The Participatory Universe - The environment affects our choices, and our choices affect the environment.
-
-”The day the flesh brings, and the flesh the day brings.“ 
--- Leto Atreides, Dune
-
-
----
-
 What happens when you make the wrong decision? Have you lost out on something grand? Will you be filled with regret for the rest of your life? 
 
 ---
@@ -38,11 +20,17 @@ I can learn from my past choices, but I can never go back and change a choice th
 
 Nobody else, nothing else, determines who I will become – that is a privilege and responsibility that only I hold. My entire life is an act of creation – of creating myself.  
 
-I choose to create the best possible version of myself. One beautiful thing about this way of thinking is that there is no singular, predetermined “best” version of myself - there are only potentials and possibilities. It’s not guaranteed that I’m going to be successful in what I do, but the acts of striving and growing make success meaningful. 
+I choose to create the best possible version of myself. One beautiful thing about this way of thinking is that there is no singular, predetermined “best” version of myself - there are only potentials and possibilities. It’s not guaranteed that I’m going to be successful in what I do, but the act of striving makes success meaningful. 
 
 ---
 
 At the end of my life, I want to look back and feel satisfied. I want to maximize growth and minimize regret. This does *not* mean minimizing pain and discomfort, which are the only ways to truly grow. This means seeking out challenges and gaining experience. 
+
+---
+
+Life‘s not about doing things perfectly. It’s about doing things intentionally.
+
+It’s your choices that show what you truly are far more than your abilities. 
 
 ---
 
@@ -87,7 +75,12 @@ That’s a vote against a healthy lifestyle.
 We are responsible for our desires. 
 
 ---
+“Free Will” by Sam Harris
 
+Fascinating, but he begins with completely different premises than I believe are true. One key premise he argues for is materialism - the idea that our conscious experience exists only because of the chemical reactions going on in our brains, and that once the body dies, so does our conscious experience. I believe that we are more than just the physical body we have, that our consciousness existed before this life and will exist after this life. I think this is the core disagreement I have with Sam Harris’ view on free will. 
+
+
+---
 
 *Two roads diverged in a yellow wood,*  
 *And sorry I could not travel both*  
