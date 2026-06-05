@@ -108,7 +108,30 @@ Fascinating, but he begins with completely different premises than I believe are
 
 *-- Robert Frost*
 
+---
 
+
+
+Does God exist?
+“How to be a Stoic - God or Atoms”
+
+Argument of Design
+It seems impossible that everything - the earth, plants, humans - could exist without a creator. Therefore, God must exist. 
+
+David Hume argued 
+
+
+
+“It doesn’t make sense to believe that God is real when there’s so much suffering in the world.”
+
+**God respects personal agency and growth more than he respects temporary suffering. 
+
+God also knows our individual limits, which are significantly more than we think they are. 
+
+Somebody who suffers their entire life, no matter the suffering, may be much stronger than someone who suffers less. 
+
+
+Suffering is an inherent part of life. To take away suffering is to take away growth. 
 
 ---
 
